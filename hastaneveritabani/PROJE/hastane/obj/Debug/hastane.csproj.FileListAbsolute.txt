@@ -1,0 +1,54 @@
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\bin\Debug\hastane.exe.config
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\bin\Debug\hastane.exe
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\bin\Debug\hastane.pdb
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.csprojResolveAssemblyReference.cache
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.Form1.resources
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.Cache
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.exe
+c:\users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\onur33\documents\visual studio 2013\Projects\hastane\hastane\bin\Debug\Npgsql.dll
+C:\Users\onur33\documents\visual studio 2013\Projects\hastane\hastane\bin\Debug\Npgsql.xml
+C:\Users\onur33\documents\visual studio 2013\Projects\hastane\hastane\obj\Debug\hastane.Form2.resources
+C:\Users\onur33\Documents\Visual Studio 2013\Projects\hastane\hastane\obj\Debug\hastane.KayitOl.resources
+C:\Users\onur33\Documents\Visual Studio 2013\Projects\hastane\hastane\obj\Debug\hastane.AdminPaneli.resources
+C:\Users\onur33\Desktop\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\onur33\Desktop\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\onur33\Desktop\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\onur33\Desktop\hastane\hastane\bin\Debug\Npgsql.dll
+C:\Users\onur33\Desktop\hastane\hastane\bin\Debug\Npgsql.xml
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.csprojResolveAssemblyReference.cache
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.AdminPaneli.resources
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.Form1.resources
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.Form2.resources
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.KayitOl.resources
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.Cache
+C:\Users\onur33\Desktop\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\başak\Desktop\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\başak\Desktop\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\başak\Desktop\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\başak\Desktop\hastane\hastane\bin\Debug\Npgsql.xml
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.csprojResolveAssemblyReference.cache
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.AdminPaneli.resources
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.Form1.resources
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.Form2.resources
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.KayitOl.resources
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.Cache
+C:\Users\başak\Desktop\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\bin\Debug\hastane.exe.config
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.exe
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.pdb
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\bin\Debug\hastane.exe
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\bin\Debug\hastane.pdb
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\bin\Debug\Npgsql.xml
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.csprojResolveAssemblyReference.cache
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.AdminPaneli.resources
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.KayitOl.resources
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.csproj.GenerateResource.Cache
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.randevu.resources
+C:\Users\başak\Desktop\PROJEB151210107BAŞAKYILDIRIM1A\PROJE\hastane\obj\Debug\hastane.Form1.resources
